@@ -1,0 +1,48 @@
+[17-Jan-2019 08:22:24 UTC] Uncaught exception: 'Error'Message: 'Class 'config\Config' not found'
+Stack trace: #0 /home/ssvibxwn/public_html/bejee-tz/Core/TSingletone.php(18): Core\Db->__construct()
+#1 /home/ssvibxwn/public_html/bejee-tz/Core/Model.php(17): Core\Db::instance()
+#2 /home/ssvibxwn/public_html/bejee-tz/App/Controllers/AppController.php(22): Core\Model->__construct()
+#3 /home/ssvibxwn/public_html/bejee-tz/Core/Router.php(115): App\Controllers\AppController->__construct(Array)
+#4 /home/ssvibxwn/public_html/bejee-tz/public/index.php(38): Core\Router->dispatch('')
+#5 {main}
+Thrown in '/home/ssvibxwn/public_html/bejee-tz/Core/Db.php' on line 24
+[17-Jan-2019 08:22:28 UTC] Uncaught exception: 'Exception'Message: 'no route matched'
+Stack trace: #0 /home/ssvibxwn/public_html/bejee-tz/public/index.php(38): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in '/home/ssvibxwn/public_html/bejee-tz/Core/Router.php' on line 132
+[17-Jan-2019 08:22:29 UTC] Uncaught exception: 'Error'Message: 'Class 'config\Config' not found'
+Stack trace: #0 /home/ssvibxwn/public_html/bejee-tz/Core/TSingletone.php(18): Core\Db->__construct()
+#1 /home/ssvibxwn/public_html/bejee-tz/Core/Model.php(17): Core\Db::instance()
+#2 /home/ssvibxwn/public_html/bejee-tz/App/Controllers/AppController.php(22): Core\Model->__construct()
+#3 /home/ssvibxwn/public_html/bejee-tz/Core/Router.php(115): App\Controllers\AppController->__construct(Array)
+#4 /home/ssvibxwn/public_html/bejee-tz/public/index.php(38): Core\Router->dispatch('')
+#5 {main}
+Thrown in '/home/ssvibxwn/public_html/bejee-tz/Core/Db.php' on line 24
+[17-Jan-2019 08:22:29 UTC] Uncaught exception: 'Exception'Message: 'no route matched'
+Stack trace: #0 /home/ssvibxwn/public_html/bejee-tz/public/index.php(38): Core\Router->dispatch('favicon.ico')
+#1 {main}
+Thrown in '/home/ssvibxwn/public_html/bejee-tz/Core/Router.php' on line 132
+[17-Jan-2019 08:22:30 UTC] Uncaught exception: 'Error'Message: 'Class 'config\Config' not found'
+Stack trace: #0 /home/ssvibxwn/public_html/bejee-tz/Core/TSingletone.php(18): Core\Db->__construct()
+#1 /home/ssvibxwn/public_html/bejee-tz/Core/Model.php(17): Core\Db::instance()
+#2 /home/ssvibxwn/public_html/bejee-tz/App/Controllers/AppController.php(22): Core\Model->__construct()
+#3 /home/ssvibxwn/public_html/bejee-tz/Core/Router.php(115): App\Controllers\AppController->__construct(Array)
+#4 /home/ssvibxwn/public_html/bejee-tz/public/index.php(38): Core\Router->dispatch('')
+#5 {main}
+Thrown in '/home/ssvibxwn/public_html/bejee-tz/Core/Db.php' on line 24
+[17-Jan-2019 08:23:26 UTC] Uncaught exception: 'Error'Message: 'Class 'config\Config' not found'
+Stack trace: #0 /home/ssvibxwn/public_html/bejee-tz/Core/TSingletone.php(18): Core\Db->__construct()
+#1 /home/ssvibxwn/public_html/bejee-tz/Core/Model.php(17): Core\Db::instance()
+#2 /home/ssvibxwn/public_html/bejee-tz/App/Controllers/AppController.php(22): Core\Model->__construct()
+#3 /home/ssvibxwn/public_html/bejee-tz/Core/Router.php(115): App\Controllers\AppController->__construct(Array)
+#4 /home/ssvibxwn/public_html/bejee-tz/public/index.php(38): Core\Router->dispatch('')
+#5 {main}
+Thrown in '/home/ssvibxwn/public_html/bejee-tz/Core/Db.php' on line 24
+[17-Jan-2019 08:23:46 UTC] Uncaught exception: 'Error'Message: 'Class 'config\Config' not found'
+Stack trace: #0 /home/ssvibxwn/public_html/bejee-tz/Core/TSingletone.php(18): Core\Db->__construct()
+#1 /home/ssvibxwn/public_html/bejee-tz/Core/Model.php(17): Core\Db::instance()
+#2 /home/ssvibxwn/public_html/bejee-tz/App/Controllers/AppController.php(22): Core\Model->__construct()
+#3 /home/ssvibxwn/public_html/bejee-tz/Core/Router.php(115): App\Controllers\AppController->__construct(Array)
+#4 /home/ssvibxwn/public_html/bejee-tz/public/index.php(38): Core\Router->dispatch('')
+#5 {main}
+Thrown in '/home/ssvibxwn/public_html/bejee-tz/Core/Db.php' on line 24

@@ -1,0 +1,52 @@
+[16-Aug-2018 00:59:34 Europe/Moscow] Uncaught exception: 'Exception'Message: 'no route matched'
+Stack trace: #0 D:\openServer\OSPanel\domains\mvc-clean\public\index.php(38): Core\Router->dispatch('lkjhg')
+#1 {main}
+Thrown in 'D:\openServer\OSPanel\domains\mvc-clean\Core\Router.php' on line 132
+[16-Aug-2018 00:59:34 Europe/Moscow] Uncaught exception: 'Exception'Message: 'no route matched'
+Stack trace: #0 D:\openServer\OSPanel\domains\mvc-clean\public\index.php(38): Core\Router->dispatch('fonts/opensans_...')
+#1 {main}
+Thrown in 'D:\openServer\OSPanel\domains\mvc-clean\Core\Router.php' on line 132
+[16-Aug-2018 00:59:34 Europe/Moscow] Uncaught exception: 'Exception'Message: 'no route matched'
+Stack trace: #0 D:\openServer\OSPanel\domains\mvc-clean\public\index.php(38): Core\Router->dispatch('fonts/opensans_...')
+#1 {main}
+Thrown in 'D:\openServer\OSPanel\domains\mvc-clean\Core\Router.php' on line 132
+[16-Aug-2018 00:59:34 Europe/Moscow] Uncaught exception: 'Exception'Message: 'no route matched'
+Stack trace: #0 D:\openServer\OSPanel\domains\mvc-clean\public\index.php(38): Core\Router->dispatch('fonts/opensans_...')
+#1 {main}
+Thrown in 'D:\openServer\OSPanel\domains\mvc-clean\Core\Router.php' on line 132
+[16-Aug-2018 00:59:34 Europe/Moscow] Uncaught exception: 'Exception'Message: 'no route matched'
+Stack trace: #0 D:\openServer\OSPanel\domains\mvc-clean\public\index.php(38): Core\Router->dispatch('fonts/opensans_...')
+#1 {main}
+Thrown in 'D:\openServer\OSPanel\domains\mvc-clean\Core\Router.php' on line 132
+[16-Aug-2018 00:59:54 Europe/Moscow] Uncaught exception: 'Exception'Message: 'no route matched'
+Stack trace: #0 D:\openServer\OSPanel\domains\mvc-clean\public\index.php(38): Core\Router->dispatch('fonts/opensans_...')
+#1 {main}
+Thrown in 'D:\openServer\OSPanel\domains\mvc-clean\Core\Router.php' on line 132
+[16-Aug-2018 00:59:55 Europe/Moscow] Uncaught exception: 'Exception'Message: 'no route matched'
+Stack trace: #0 D:\openServer\OSPanel\domains\mvc-clean\public\index.php(38): Core\Router->dispatch('public/images/l...')
+#1 {main}
+Thrown in 'D:\openServer\OSPanel\domains\mvc-clean\Core\Router.php' on line 132
+[16-Aug-2018 00:59:55 Europe/Moscow] Uncaught exception: 'Exception'Message: 'no route matched'
+Stack trace: #0 D:\openServer\OSPanel\domains\mvc-clean\public\index.php(38): Core\Router->dispatch('public/css/styl...')
+#1 {main}
+Thrown in 'D:\openServer\OSPanel\domains\mvc-clean\Core\Router.php' on line 132
+[16-Aug-2018 00:59:55 Europe/Moscow] Uncaught exception: 'Exception'Message: 'no route matched'
+Stack trace: #0 D:\openServer\OSPanel\domains\mvc-clean\public\index.php(38): Core\Router->dispatch('public/images/s...')
+#1 {main}
+Thrown in 'D:\openServer\OSPanel\domains\mvc-clean\Core\Router.php' on line 132
+[16-Aug-2018 01:01:18 Europe/Moscow] Uncaught exception: 'Exception'Message: 'no route matched'
+Stack trace: #0 D:\openServer\OSPanel\domains\mvc-clean\public\index.php(38): Core\Router->dispatch('lkjhg')
+#1 {main}
+Thrown in 'D:\openServer\OSPanel\domains\mvc-clean\Core\Router.php' on line 132
+[16-Aug-2018 01:01:22 Europe/Moscow] Uncaught exception: 'Exception'Message: 'no route matched'
+Stack trace: #0 D:\openServer\OSPanel\domains\mvc-clean\public\index.php(38): Core\Router->dispatch('lkjhg')
+#1 {main}
+Thrown in 'D:\openServer\OSPanel\domains\mvc-clean\Core\Router.php' on line 132
+[16-Aug-2018 01:01:28 Europe/Moscow] Uncaught exception: 'Exception'Message: 'no route matched'
+Stack trace: #0 D:\openServer\OSPanel\domains\mvc-clean\public\index.php(38): Core\Router->dispatch('lkjhgf')
+#1 {main}
+Thrown in 'D:\openServer\OSPanel\domains\mvc-clean\Core\Router.php' on line 132
+[16-Aug-2018 01:01:39 Europe/Moscow] Uncaught exception: 'Exception'Message: 'no route matched'
+Stack trace: #0 D:\openServer\OSPanel\domains\mvc-clean\public\index.php(38): Core\Router->dispatch('lkjhgf')
+#1 {main}
+Thrown in 'D:\openServer\OSPanel\domains\mvc-clean\Core\Router.php' on line 132
