@@ -27,10 +27,10 @@
         <form method="post" action="register">
             <h1>Регистрация</h1>
             <div>
-                <input name="name"  type="text" placeholder="Имя"  id="username" value="<?=$_POST['name']?>" />
+                <input name="name"  type="text" placeholder="Имя"  id="username" value="<?=isset($_POST['name']) ? $_POST['name'] : '' ?>" />
             </div>
             <div>
-                <input name="email" type="text" placeholder="E-mail" id="username" value="<?=$_POST['email']?>" />
+                <input name="email" type="text" placeholder="E-mail" id="username" value="<?=isset($_POST['email']) ? $_POST['email'] : '' ?>" />
             </div>
             <div>
                 <input name="password" type="password" placeholder="Password" id="password" />

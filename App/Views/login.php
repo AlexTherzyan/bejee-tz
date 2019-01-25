@@ -24,7 +24,7 @@
         <form method="post" action="login">
             <h1>Войти</h1>
             <div>
-                <input name="email" type="text" placeholder="E-mail"  id="username" />
+                <input name="email" type="text" placeholder="E-mail" value="<?=isset($_POST['email']) ? $_POST['email'] : '' ?>"  id="username" />
             </div>
             <div>
                 <input name="password" type="password" placeholder="Пароль"  id="password" />
