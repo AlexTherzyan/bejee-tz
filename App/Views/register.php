@@ -19,7 +19,7 @@
         <? if (isset($errors)): ?>
             <div>
                 <? foreach ($errors as $error): ?>
-                    <span style="color: red"><?=$error?></span>
+                    <span style="color: red"><?=$error?></span><br>
                 <? endforeach; ?>
             </div>
         <? endif; ?>
@@ -27,16 +27,16 @@
         <form method="post" action="register">
             <h1>Регистрация</h1>
             <div>
-                <input name="name"  type="text" placeholder="Имя" required="" id="username" />
+                <input name="name"  type="text" placeholder="Имя"  id="username" value="<?=$_POST['name']?>" />
             </div>
             <div>
-                <input name="email" type="text" placeholder="E-mail" required="" id="username" />
+                <input name="email" type="text" placeholder="E-mail" id="username" value="<?=$_POST['email']?>" />
             </div>
             <div>
-                <input name="password" type="password" placeholder="Password" required="" id="password" />
+                <input name="password" type="password" placeholder="Password" id="password" />
             </div>
             <div>
-                <input name="confirm_password" type="password" placeholder="Password" required="" id="password" />
+                <input name="confirm_password" type="password" placeholder="Password" id="password" />
             </div>
             <div>
                 <input name="register" type="submit" value="Зарегистрироваться" />
